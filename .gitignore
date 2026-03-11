@@ -1,0 +1,57 @@
+# ========================================== #
+# 1. Arquivos Compilados do Java
+# ========================================== #
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+
+# ========================================== #
+# 2. Pacotes (Binários)
+# ========================================== #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# ========================================== #
+# 3. IntelliJ IDEA (Sua IDE)
+# ========================================== #
+.idea/
+*.iml
+*.iws
+*.workspace.xml
+*.tasks
+out/
+gen/
+
+# ========================================== #
+# 4. Maven (Gerenciador de Dependências)
+# ========================================== #
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# ========================================== #
+# 5. Arquivos de Sistema Operacional
+# ========================================== #
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*~
+
+# ========================================== #
+# 6. Variáveis de Ambiente e Senhas (MUITO IMPORTANTE!)
+# ========================================== #
+.env
+config.properties
