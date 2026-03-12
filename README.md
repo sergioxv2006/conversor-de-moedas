@@ -25,3 +25,5 @@ Foram selecionadas as seguintes moedas (Currency Codes) para as conversões:
 3. Importe a biblioteca **GSON** para o seu projeto (via Maven ou adicionando o `.jar` manualmente em `Project Structure > Modules > Dependencies`).
 4. Execute a classe `Principal.java`.
 5. Interaja com o menu no console digitando o número da opção desejada e o valor a ser convertido!
+
+![Badge](img/Badge-Conversor.png)
